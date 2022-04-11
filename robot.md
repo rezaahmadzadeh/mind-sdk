@@ -39,7 +39,7 @@ you will see robot's IP and name.
 > mind pack
 ```
 
-8. Then you can run the .pak file built in the previous step.
+8. Then you can run the .mpk file built in the previous step.
 
 ```shell
 > mind run
